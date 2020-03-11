@@ -1,3 +1,1 @@
-# ericj0114.github.io
-## Eric Jiang
-Data Science student at UC San Diego.
+Hi! I'm Eric, a data science student at UC San Diego.
